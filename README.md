@@ -15,3 +15,11 @@ A simple and functional calculator application for Android smartphones, designed
 ## Installation
 1. Open the project in **Android Studio**.
 2. Build and run it on an emulator or a physical device.
+
+## Screenshots
+<table>
+  <tr>
+    <td><img src="Activity1_screenshot.jpg" width="250"></td>
+    <td><img src="Activity2_screenshot.jpg" width="250"></td>
+  </tr>
+</table>
